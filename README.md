@@ -50,13 +50,14 @@ My goal is to build a strong career in technology, gain real-world industry expe
 
 <div align="center">
 
-|        🌐 Web Development       |             ⚛️ React             |   🔐 Cybersecurity  |
-| :-----------------------------: | :------------------------------: | :-----------------: |
-| Building practical applications | Modern UI & frontend development | Web security & VAPT |
+|          🌐 Web Development         |        ⚡ JavaScript, React & MERN        |   🔐 Cybersecurity  |
+| :---------------------------------: | :--------------------------------------: | :-----------------: |
+| Building practical web applications | Modern frontend & full-stack development | Web security & VAPT |
 
-|        🧠 JavaScript       | 🛡️ Application Security |             🚀 Projects             |
-| :------------------------: | :----------------------: | :---------------------------------: |
-| Strengthening fundamentals | OWASP & security testing | Turning ideas into working software |
+|             🧠 Programming             |     🛡️ Web Application Security     |        🚀 Real-World Projects       |
+| :------------------------------------: | :----------------------------------: | :---------------------------------: |
+| Strengthening programming fundamentals | OWASP, Burp Suite & security testing | Turning ideas into working software |
+
 
 </div>
 
@@ -107,28 +108,88 @@ My goal is to build a strong career in technology, gain real-world industry expe
 ## 📚 Currently Learning
 
 ```text
+</div>
+
+╭──────────────────────────────────────────────────────────────╮
+│                    🚀 CURRENT DEVELOPMENT                    │
+╰──────────────────────────────────────────────────────────────╯
+
+🌐 WEB DEVELOPMENT
+│
+├── HTML & CSS
+├── JavaScript
+├── React.js
+├── Vite & Tailwind CSS
+└── Responsive Modern UI
+        │
+        ▼
+⚡ FULL-STACK DEVELOPMENT
+│
+├── MERN Stack
+│   ├── MongoDB
+│   ├── Express.js
+│   ├── React.js
+│   └── Node.js
+│
+├── REST APIs
+└── Backend Development
+        │
+        ▼
+🔐 WEB APPLICATION SECURITY
+│
+├── OWASP Top 10
+├── Burp Suite
+├── Web VAPT
+├── Ethical Hacking
+└── Secure Web Development
+        │
+        ▼
+🚀 BUILD → TEST → SECURE
+│
+├── Real-World Web Applications
+├── Personal Projects
+├── Security-Focused Experiments
+└── Continuous Improvement
+🧭 My Development Path
+HTML + CSS
+     │
+     ▼
 JavaScript
-   │
-   ├── Advanced JavaScript
-   │
-   ▼
-React
-   │
-   ├── Components
-   ├── State & Props
-   ├── APIs
-   └── Modern Frontend Development
-   │
-   ▼
+     │
+     ├── DOM & Events
+     ├── APIs
+     ├── Async JavaScript
+     └── Modern JavaScript
+     │
+     ▼
+React.js
+     │
+     ├── Components
+     ├── Props & State
+     ├── Hooks
+     ├── APIs
+     └── Modern Frontend Development
+     │
+     ▼
+MERN Stack
+     │
+     ├── MongoDB
+     ├── Express.js
+     ├── React.js
+     └── Node.js
+     │
+     ▼
 Full-Stack Web Development
-   │
-   ▼
+     │
+     ▼
 Web Application Security
-   │
-   ├── OWASP Top 10
-   ├── Burp Suite
-   ├── Web VAPT
-   └── Secure Development
+     │
+     ├── OWASP Top 10
+     ├── Burp Suite
+     ├── Web VAPT
+     └── Secure Development
+
+My approach: Build applications → understand how they work → test how they can break → learn how to secure them.
 ```
 
 ### Current learning areas
