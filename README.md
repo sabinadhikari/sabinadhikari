@@ -1,23 +1,23 @@
 <div align="center">
 
-# **Sabin Adhikari**
+# Sabin Adhikari
 
 ### BCA Student | Web Developer | JavaScript, React & MERN | Aspiring Cybersecurity & VAPT Professional
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=620&height=45&lines=Web+Developer;JavaScript+%2F+React+Developer;MERN+Stack+Learner;Building+Real-World+Applications;Cybersecurity+Enthusiast;Web+VAPT+Learner" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&height=45&lines=Web+Developer;JavaScript+%2F+React+Developer;MERN+Stack+Learner;Building+Real-World+Applications;Cybersecurity+Enthusiast;Web+VAPT+Learner" alt="Typing animation">
 </a>
 
 <br>
 
 <a href="https://github.com/sabinadhikari">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub">
 </a>
 <a href="https://www.linkedin.com/in/sabin-adhikari-486260437/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 <a href="mailto:[binsone001@gmail.com](mailto:binsone001@gmail.com)">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <br><br>
@@ -28,101 +28,112 @@
 
 ---
 
-## 🧑‍💻 About
+## 👨‍💻 About Me
 
-BCA student and web developer focused on **JavaScript, React and modern web development**, while building practical skills in **MERN and web application security**.
+I'm a **BCA student and web developer** focused on building practical applications with **JavaScript, React and modern web technologies**.
 
-Currently exploring **VAPT, offensive security and secure web development** through hands-on projects.
+Alongside development, I'm building hands-on skills in **cybersecurity, offensive security and Web VAPT**, with a focus on understanding how web applications work — and how they can be tested and secured.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Development
 
-<div align="center">
+**Languages**
 
-### Development
+`HTML` `CSS` `JavaScript` `Python` `TypeScript` PHP
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,react,vite,tailwind,nodejs" alt="Development stack">
+**Frontend**
 
-### Tools
+`React` `Vite` `Tailwind CSS`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" alt="Development tools">
+**Backend & Data**
 
-### Cybersecurity
+`Node.js` `Express.js` `MongoDB` `MySQL` `Supabase` 
 
-<img src="https://skillicons.dev/icons?i=linux,kali" alt="Cybersecurity operating systems">
+**Development Tools**
 
-<br><br>
+`Git` `GitHub` `VS Code` `Postman` `Figma` `Vercel`
 
-<img src="https://img.shields.io/badge/Nmap-004170?style=flat-square" alt="Nmap">
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square" alt="Burp Suite">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square" alt="Wireshark">
-<img src="https://img.shields.io/badge/Nessus-00AEEF?style=flat-square" alt="Nessus">
-<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square" alt="Metasploit">
+---
 
-</div>
+## 🛡️ Cybersecurity
+
+Focused on **offensive security, web application security and VAPT**.
+
+**Operating Systems**
+
+`Linux` `Kali Linux`
+
+**Reconnaissance & Scanning**
+
+`Nmap` `Recon-ng` `Nessus` `GVM / OpenVAS`
+
+**Web Security**
+
+`Burp Suite` `Caido` `FoxyProxy` `OWASP Top 10`
+
+**Network & Traffic Analysis**
+
+`Wireshark`
+
+**Exploitation & Security Testing**
+
+`Metasploit` `Burp Suite` `Nmap`
+
+**Security Areas**
+
+`Web VAPT` · `Web Application Security` · `Reconnaissance` · `Vulnerability Assessment` · `Penetration Testing` · `Offensive Security`
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+### 💰 PaisaFlow
 
-### 💰 [PaisaFlow](https://github.com/sabinadhikari/PaisaFlow)
+**Personal finance management web application** for tracking income, expenses, budgets, goals and financial analytics.
 
-**Personal finance management web application**
+`React` `TypeScript` `Tailwind CSS` `Chart.js` `LocalStorage`
 
-`React` · `TypeScript` · `Tailwind CSS` · `Chart.js`
-
-<a href="https://github.com/sabinadhikari/PaisaFlow">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="PaisaFlow GitHub">
-</a>
-<a href="https://paisaflow-rho.vercel.app/">
-  <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="PaisaFlow live demo">
-</a>
-
-<br><br>
-
-### 🛒 [NepShop](https://github.com/sabinadhikari/NepShop)
-
-**Full-stack e-commerce application**
-
-`React` · `Vite` · `Express` · `Prisma`
-
-<a href="https://github.com/sabinadhikari/NepShop">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="NepShop GitHub">
-</a>
-
-<br><br>
-
-### ⌨️ [TypeFlow](https://github.com/sabinadhikari/TypeFlow)
-
-**Modern typing application**
-
-`TypeScript` · `React` · `Vite`
-
-<a href="https://github.com/sabinadhikari/TypeFlow">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github" alt="TypeFlow GitHub">
-</a>
-<a href="https://type-flow-beta.vercel.app/">
-  <img src="https://img.shields.io/badge/Live-Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white" alt="TypeFlow live demo">
-</a>
-
-</div>
+[GitHub](https://github.com/sabinadhikari/PaisaFlow) · [Live Demo](https://paisaflow-rho.vercel.app/)
 
 ---
 
-## 📊 GitHub Analytics
+### 🛒 NepShop
+
+**Full-stack e-commerce application** with a React frontend and Node/Express backend.
+
+`React` `Vite` `Express` `Prisma` `SQLite` `JWT` `bcrypt`
+
+[GitHub](https://github.com/sabinadhikari/NepShop)
+
+---
+
+### ⌨️ TypeFlow
+
+**Modern web-based typing application** built with a React and TypeScript stack.
+
+`TypeScript` `React` `Vite` `Supabase`
+
+[GitHub](https://github.com/sabinadhikari/TypeFlow) · [Live Demo](https://type-flow-beta.vercel.app/)
+
+---
+
+### 🎮 More Projects
+
+[Tic-Tac-Toe](https://github.com/sabinadhikari/Tic-Tac-Toe) ·
+[Quiz-App](https://github.com/sabinadhikari/Quiz-App) ·
+[Mini-Projects](https://github.com/sabinadhikari/Mini-Projects) ·
+[Amazon-Clone](https://github.com/sabinadhikari/Amazon-Clone)
+
+---
+
+## 📊 GitHub Activity
 
 <div align="center">
 
-<a href="https://github.com/sabinadhikari">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=sabinadhikari&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics">
-</a>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=sabinadhikari&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics">
 
-<a href="https://github.com/sabinadhikari">
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sabinadhikari&layout=compact&hide_border=true&langs_count=6" alt="Top languages">
-</a>
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=sabinadhikari&layout=compact&hide_border=true&langs_count=6" alt="Top languages">
 
 <br>
 
@@ -136,22 +147,12 @@ Currently exploring **VAPT, offensive security and secure web development** thro
 
 ---
 
-## 📫 Connect
+## 🤝 Connect
 
-<div align="center">
+[GitHub](https://github.com/sabinadhikari) ·
+[LinkedIn](https://www.linkedin.com/in/sabin-adhikari-486260437/) ·
+[binsone001@gmail.com](mailto:binsone001@gmail.com)
 
-<a href="https://github.com/sabinadhikari">
-  <img src="https://img.shields.io/badge/GitHub-sabinadhikari-181717?style=for-the-badge&logo=github" alt="GitHub">
-</a>
-<a href="https://www.linkedin.com/in/sabin-adhikari-486260437/">
-  <img src="https://img.shields.io/badge/LinkedIn-Sabin%20Adhikari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:[binsone001@gmail.com](mailto:binsone001@gmail.com)">
-  <img src="https://img.shields.io/badge/Email-binsone001-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-<br><br>
+<br>
 
 **Build. Break. Understand. Secure.**
-
-</div>
